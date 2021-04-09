@@ -2,15 +2,20 @@
 
 <!--
 **anacarolinacrepalde/anacarolinacrepalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey 👋
 
-Here are some ideas to get you started:
+Eu sou a Ana Carolina Crepalde
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Faço Sistemas de Informação na UFOP – Campus ICEA  💻
+
+ 🌍 "Não pare até se orgulhar de você mesma!" 🧠
+
+- 📍 Barão de Cocais/Belo Horizonte - MG
+- 💻 Desenvolvedora Web - Mobile
+
+Fale comigo! 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacscrepaldeguimar%C3%A3es/)](https://www.linkedin.com/in/anacscrepaldeguimar%C3%A3es/) 
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)] (https://www.instagram.com/anacrepalde/)
+
