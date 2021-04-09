@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 Sou Ana Carolina Crepalde, tenho 22 anos e programo desde os 20 hahaa 🥰
 
