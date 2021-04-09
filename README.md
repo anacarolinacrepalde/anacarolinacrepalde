@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**anacarolinacrepalde/anacarolinacrepalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hey 👋
-
-Eu sou a Ana Carolina Crepalde
+Sou Ana Carolina Crepalde
 
 Faço Sistemas de Informação na UFOP – Campus ICEA  💻
 
